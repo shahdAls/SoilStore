@@ -12,7 +12,7 @@ Visual Studio Code
 
 Download Link:
 
-[Visual Studio Code][(https://www.jetbrains.com/idea/)](https://code.visualstudio.com/download)
+[Visual Studio Code](https://code.visualstudio.com/download)
 
 
 
